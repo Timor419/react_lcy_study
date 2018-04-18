@@ -1,0 +1,10 @@
+.cp_header {
+    height: 50px;
+    font-size: 20px;
+    background: skyblue;
+    color: blue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+

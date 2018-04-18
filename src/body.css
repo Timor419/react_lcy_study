@@ -1,0 +1,8 @@
+.cp_body {
+    background: bisque;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+}
